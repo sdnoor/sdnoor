@@ -35,8 +35,12 @@
 ---
 
 ## 📦 Featured Work
-- 🔧 **[YAML-Templates](https://github.com/sdnoor/YAML-Templates)** – Reusable Azure DevOps pipeline templates & Bicep modules for App Service.
-- 📈 Azure Infrastructure Monitoring & Alerting with Application Insights and KQL.
+- 🚀 **Bicep Migration Project** – Assisted my team in successfully migrating **30+ integrations** from **ARM templates** to **Bicep**, improving deployment consistency and maintainability.
+
+- 🔧 **[YAML-Templates](https://github.com/sdnoor/YAML-Templates)** – Reusable Azure DevOps pipeline templates (YAML) and **Bicep** modules for Azure App Service deployments.
+
+- 📊 **Azure Infrastructure Monitoring & Alerting** – Configured proactive monitoring with **Azure Monitor**, **Azure Application Insights**, and **KQL** to detect and resolve infrastructure issues before they impact users.
+
 
 ---
 
