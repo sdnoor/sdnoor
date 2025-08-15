@@ -24,14 +24,13 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-IaC-2C2C2C)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Azure CLI](https://img.shields.io/badge/Azure%20CLI-0078D4?logo=microsoft-azure&logoColor=white)
+![Az PowerShell](https://img.shields.io/badge/Az%20PowerShell-5391FE?logo=powershell&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-00599C?logo=azure-data-explorer&logoColor=white)
+
 
 ---
 
