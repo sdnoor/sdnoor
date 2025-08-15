@@ -39,7 +39,7 @@
 
 - 🔧 **[YAML-Templates](https://github.com/sdnoor/YAML-Templates)** – Reusable Azure DevOps pipeline templates (YAML) and **Bicep** modules for Azure App Service deployments.
 
-- 📊 **Azure Infrastructure Monitoring & Alerting** – Configured proactive monitoring with **Azure Monitor**, **Azure Application Insights**, and **KQL** to detect and resolve infrastructure issues before they impact users.
+- **Azure Infrastructure Monitoring & Alerting** – Configured proactive monitoring with <img src="https://learn.microsoft.com/media/logos/logo-azure-monitor.svg" alt="Azure Monitor" width="20"/> **Azure Monitor**, <img src="https://learn.microsoft.com/media/logos/logo-azure-application-insights.svg" alt="Azure Application Insights" width="20"/> **Azure Application Insights**, and **KQL** to detect and resolve infrastructure issues before they impact users.
 
 
 ---
